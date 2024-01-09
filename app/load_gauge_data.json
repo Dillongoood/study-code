@@ -1,0 +1,10 @@
+{ 
+    "START_DATE" : "2022-03-01T00:15:00",
+    "END_DATE" : "2022-05-01T00:00:00",
+    "TIME_STEP": "15", 
+    "BASE_DIR": "/home/awseed/data/RF3",
+    "PRODUCT": "gaugeobs",
+    "STN_ID": "0",
+    "DB_NAME": "gauge",
+    "DROP_DATABASE":"0" 
+}

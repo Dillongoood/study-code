@@ -1,0 +1,11 @@
+{ 
+    "START_DATE" : "2022-06-01T00:00:00",
+    "END_DATE" : "2022-06-03T23:59:00",
+    "IN_TIME_STEP": "6", 
+    "OUT_TIME_STEP":"18",
+    "BASE_DIR": "D:/RadarData/2022.8.19-21/HSR/",
+    "IN_PRODUCT": "Z_HSR_00_033.nc",
+    "OUT_PRODUCT": "Z_HSR_18_033.nc",
+    "STN_ID": "Z9010",
+    "DB_NAME": "radar"
+}
